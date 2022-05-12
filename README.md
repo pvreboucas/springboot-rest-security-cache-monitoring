@@ -4,17 +4,17 @@
 
 [Principal](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring)
 
-* [Aula 1 - ](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-01)
+* [Aula 1 - Paginação e ordenação de recursos](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-01)
 
-* [Aula 2 - ](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-02)
+* [Aula 2 - Melhorando desempenho com Spring Cache](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-02)
 
-* [Aula 3 - ](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-03)
+* [Aula 3 - Proteção com Spring Security](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-03)
 
-* [Aula 4 - ](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-04)
+* [Aula 4 - Gerando token com JWT](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-04)
 
-* [Aula 5 - ](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-05)
+* [Aula 5 - Autenticação via JWT](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-05)
 
-* [Aula 6 - ](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-06)
+* [Aula 6 - Monitoramento com Spring Boot Actuator](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-06)
 
-* [Aula 7 - ](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-07)
+* [Aula 7 - Documentação da API com Swagger](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-07)
 
