@@ -2,6 +2,8 @@
 
 [Curso de Spring Boot Rest: Segurança, Cache e Monitoramento da formação Java Web/Alura](https://cursos.alura.com.br/course/spring-boot-seguranca-cache-monitoramento)
 
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/springboot-rest)
+
 [Principal](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring)
 
 * [Aula 1 - Paginação e ordenação de recursos](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-01)
@@ -18,3 +20,4 @@
 
 * [Aula 7 - Documentação da API com Swagger](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-07)
 
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/spring-boot-profiles-testes-deploy)
