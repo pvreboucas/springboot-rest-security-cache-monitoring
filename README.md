@@ -20,4 +20,4 @@
 
 * [Aula 7 - Documentação da API com Swagger](https://github.com/pvreboucas/springboot-rest-security-cache-monitoring/tree/aula-07)
 
-[PRÓXIMO CURSO >>](https://github.com/pvreboucas/spring-boot-profiles-testes-deploy)
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/springboot-profiles-testes-deploy)
